@@ -1,0 +1,56 @@
+**************************************************
+Image A: M1 Spast WT LD.tiff
+Image B: M1 Spast WT Prs.tiff
+
+Pearson's Coefficient:
+r=0.412
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.213 (fraction of A overlapping B)
+M2=0.891 (fraction of B overlapping A)
+**************************************************
+Image A: M1 Spast WT LD-2.tiff
+Image B: M1 Spast WT Prs-2.tiff
+
+Pearson's Coefficient:
+r=0.519
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.295 (fraction of A overlapping B)
+M2=0.985 (fraction of B overlapping A)
+**************************************************
+Image A: M1 Spast WT LD-3.tiff
+Image B: M1 Spast WT Prs-3.tiff
+
+Pearson's Coefficient:
+r=0.425
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.199 (fraction of A overlapping B)
+M2=0.99 (fraction of B overlapping A)
+**************************************************
+Image A: M1 Spast WT LD-4.tiff
+Image B: M1 Spast WT Prs-4.tiff
+
+Pearson's Coefficient:
+r=0.593
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.482 (fraction of A overlapping B)
+M2=0.863 (fraction of B overlapping A)

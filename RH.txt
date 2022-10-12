@@ -1,0 +1,168 @@
+**************************************************
+Image A: C1-RH-1 LD.tiff
+Image B: C3-RH-1 Prs.tiff
+
+Pearson's Coefficient:
+r=0.321
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.408 (fraction of A overlapping B)
+M2=0.333 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-2 LD.tiff
+Image B: C3-RH-2 Prs.tiff
+
+Pearson's Coefficient:
+r=0.148
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.147 (fraction of A overlapping B)
+M2=0.159 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-3 LD.tiff
+Image B: C3-RH-3 Prs.tiff
+
+Pearson's Coefficient:
+r=0.072
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.093 (fraction of A overlapping B)
+M2=0.088 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-4 LD.tiff
+Image B: C3-RH-4 Prs.tiff
+
+Pearson's Coefficient:
+r=0.43
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.574 (fraction of A overlapping B)
+M2=0.349 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-5 LD.tiff
+Image B: C3-RH-5 Prs.tiff
+
+Pearson's Coefficient:
+r=0.059
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.106 (fraction of A overlapping B)
+M2=0.069 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-6 LD.tiff
+Image B: C3-RH-6 Prs.tiff
+
+Pearson's Coefficient:
+r=0.226
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.219 (fraction of A overlapping B)
+M2=0.257 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-7 LD.tiff
+Image B: C3-RH-7 Prs.tiff
+
+Pearson's Coefficient:
+r=0.118
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.098 (fraction of A overlapping B)
+M2=0.186 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-8 LD.tiff
+Image B: C3-RH-8 Prs.tiff
+
+Pearson's Coefficient:
+r=0.321
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.429 (fraction of A overlapping B)
+M2=0.271 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-9 LD.tiff
+Image B: C3-RH-9 Prs.tiff
+
+Pearson's Coefficient:
+r=0.473
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.534 (fraction of A overlapping B)
+M2=0.487 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-10 LD.tiff
+Image B: C3-RH-10 Prs.tiff
+
+Pearson's Coefficient:
+r=0.294
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.232 (fraction of A overlapping B)
+M2=0.459 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-11 LD.tiff
+Image B: C3-RH-11 Prs.tiff
+
+Pearson's Coefficient:
+r=0.386
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.488 (fraction of A overlapping B)
+M2=0.328 (fraction of B overlapping A)
+**************************************************
+Image A: C1-RH-12 LD.tiff
+Image B: C3-RH-12 Prs.tiff
+
+Pearson's Coefficient:
+r=0.158
+
+Manders' Coefficients (original):
+M1=1.0 (fraction of A overlapping B)
+M2=1.0 (fraction of B overlapping A)
+
+Manders' Coefficients (using threshold value of 150 for imgA and 150 for imgB):
+M1=0.176 (fraction of A overlapping B)
+M2=0.195 (fraction of B overlapping A)
